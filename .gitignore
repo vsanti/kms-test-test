@@ -1,0 +1,11 @@
+env
+bin/kms-*
+DS_Store
+.DS_Store
+._DS_Store
+tmp/
+bin/*
+.vscode
+.idea
+test.log
+test.pid
